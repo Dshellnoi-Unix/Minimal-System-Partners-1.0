@@ -4,15 +4,34 @@
 ===========================================================
 
 
-Minimal System Partners 1.0 es una base para desarrolladores y programadores que deseen crear un sistema, ya sea web o local y cuya intención es minimizar los costes que conlleva crearlo desde cero.
+Minimal System Partners 1.0 es una base para desarrolladores y programadores que deseen crear un sistema,
+ ya sea web o local y cuya intención es minimizar los costes que conlleva crearlo desde cero.
 
-Las estadísticas demuestran que el 70% de los sistemas de login que hay en la web son vulnerables. La inexperiencia o la presión que supone acabar un trabajo a tiempo hacen que los programadores y desarrolladores descuiden algunos aspectos de seguridad que más tarde permiten a los hackers atacar fácilmente sus sistemas. En fastoolkit.com tratamos la seguridad como un elemento prioritario.
+Las estadísticas demuestran que el 70% de los sistemas de login que hay en la web son vulnerables.
 
- Nuestra aplicación ha sido rigurosamente supervisada y ha superado distintos test de penetración por especialistas en la materia para ofrecer a nuestros clientes un producto seguro y estable pero además, Minimal System Partners 1.0 ha sido escrito con clases en php5 y lleva consigo una amplia documentación que facilitará tanto la instalación como el desarrollo y uso de la aplicación.
+La inexperiencia o la presión que supone acabar un trabajo a tiempo hacen que los programadores
+y desarrolladores descuiden algunos aspectos de seguridad que más tarde permiten
+a los hackers atacar fácilmente sus sistemas.
 
- Como valor añadido, Minimal System Partners 1.0 es fácilmente personalizable y se facilita con una licencia Open Source que le permitirá modificar el código a su gusto y reutilizarlo cómo y cuantas veces quiera, siempre y cuando se respeten las directrices a las que se comprometen nuestros clientes al adquirir este producto.
+ En fastoolkit.com tratamos la seguridad como un elemento prioritario.
 
- La rentabilidad de nuestro producto salta a la vista y surge de la operación en la que se multiplican las horas que costaría realizar un sistema de inicio de sesión que, además, resulte seguro y haya pasado unas pruebas de penetración por la cantidad monetaria que cobraría un programador por una sola hora de trabajo. Con Minimal System Partners 1.0 no sólo ahorra tiempo sino una gran suma de dinero.
+Nuestra aplicación ha sido rigurosamente supervisada y ha superado distintos test de penetración
+por especialistas en la materia
+para ofrecer a nuestros clientes un producto seguro y estable pero además,
+
+Minimal System Partners 1.0
+ha sido escrito con clases en php5 y lleva consigo una amplia documentación que facilitará
+tanto la instalación como el desarrollo y uso de la aplicación.
+
+Como valor añadido, Minimal System Partners 1.0 es fácilmente personalizable 
+y se facilita con una licencia Open Source que le permitirá modificar el código a su gusto y reutilizarlo
+cómo y cuantas veces quiera, siempre y cuando se respeten las directrices a las que
+ se comprometen nuestros clientes al adquirir este producto.
+
+La rentabilidad de nuestro producto salta a la vista y surge de la operación en la que se multiplican
+las horas que costaría realizar un sistema de inicio de sesión que, además,
+resulte seguro y haya pasado unas pruebas de penetración por la cantidad monetaria que cobraría un programador
+ por una sola hora de trabajo. Con Minimal System Partners 1.0 no sólo ahorra tiempo sino una gran suma de dinero.
 
 ============================================================
                       PLATAFORMA
